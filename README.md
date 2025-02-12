@@ -20,10 +20,14 @@ This repository contains my implementation of **Assignment #2: Arabic Handwritte
 - 📊 **Results & Analysis:** Accuracy, execution time, robustness evaluations.
 - 📄 **Report:** Methodology, experiments, results, and observations.
 - 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 **Saja Asfour**
 - 🎓 Computer Engineering Student at Birzeit University
 - 🏠 GitHub: [SajaAsfour](https://github.com/SajaAsfour)
+
+**Yara Khattab**
+- 🎓 Computer Engineering Student at Birzeit University
+- 🏠 GitHub: [yaraKhattab](https://github.com/yarakhattab)
 
 ## 📜 License
 This repository is for educational purposes. Feel free to use and reference the work, but please give proper credit. 😊
